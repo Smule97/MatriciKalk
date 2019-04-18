@@ -1,0 +1,9 @@
+javac Exception/Eccezione.java
+javac Struttura/Struttura.java
+javac Struttura/Matrice.java
+javac Struttura/MatriceTriangolare.java
+javac Struttura/MatriceUnitaria.java
+javac Struttura/Vettore.java
+javac Esempio.java
+
+java Esempio
