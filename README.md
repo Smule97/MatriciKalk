@@ -1,6 +1,6 @@
 # MatriciKalk
 
-MatriciKalk è il progetto svolto da me, Samuele Gardin e Alessio Lazzaron per il corso di programmazione ad oggetti.
+MatriciKalk è il progetto svolto da me, Samuele Gardin e Alessio Lazzaron per il corso di programmazione ad oggetti - Unipd - A.A. 2017-2018.
 
 ## Descrizione
 
